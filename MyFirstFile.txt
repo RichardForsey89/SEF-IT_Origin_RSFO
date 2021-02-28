@@ -1,0 +1,5 @@
+My house has two cats.
+
+Test commit 1.
+
+My cats are Monty and Atlas.
